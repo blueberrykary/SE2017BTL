@@ -1,5 +1,5 @@
 # Summer 2017 Software Engineering Project
-<h3>Title: Beyong The Light:flashlight: </h3> 
+<h3>Title: Beyond The Light:flashlight: </h3> 
 
 
 Run File:
