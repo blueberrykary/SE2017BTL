@@ -10,8 +10,6 @@ make && ./game
 </br>
 
 # Authors
-<br>
-<br>
 Aurora Hernandez, Cheyenne Thomas, Karen Salinas
 <br>
 
