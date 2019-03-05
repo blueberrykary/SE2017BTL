@@ -9,10 +9,17 @@ make && ./game
 </br>
 </br>
 
+# Authors
+<br>
+<br>
+Aurora Hernandez, Cheyenne Thomas, Karen Salinas
+<br>
+
+
 # MIT License
 <br>
 <br>
-Copyright (c) 2019 blueberrykary
+Copyright (c) 2017 Cheyenne Thomas, Aurora Hernandez, Karen Salinas
 <br>
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
