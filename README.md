@@ -12,11 +12,10 @@ make && ./game
 # Authors
 Aurora Hernandez, Cheyenne Thomas, Karen Salinas
 <br>
-
+<br>
+<br>
 
 # MIT License
-<br>
-<br>
 Copyright (c) 2017 Cheyenne Thomas, Aurora Hernandez, Karen Salinas
 <br>
 Permission is hereby granted, free of charge, to any person obtaining a copy
