@@ -2,6 +2,11 @@
 <h3>Title: Beyond The Light:flashlight: </h3> 
 Beyond the Light involves a girl called Mortana who is roaming through the woods on a dark night ready to fight ghost with her flashlight. The light is her weapon that she can point at every direction at 180 degrees angles at rapid speed and contains magical powers activated through keys. If she is touched by a ghost, then the game is over and the user's highest score is stored.
 
+<h1>Download</h1>
+Download the game on your Linux machine, and run it through your terminal. The game is compiled with X11 libraries 
+
+<br>
+<br>
 <h1>Run File:</h1>
 make && ./game
 </br>
