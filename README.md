@@ -5,30 +5,10 @@ Beyond the Light involves a girl called Mortana who is roaming through the woods
 <h1>Download</h1>
 Download the game on your Linux machine and run it through your terminal. The game is compiled with X11 libraries 
 
-
-
-<style>
-body {
-  background-color: #fefbd8;
-}
-
-h1 {
-  background-color: #80ced6;
-}
-
-div {
-  background-color: #d5f4e6;
-}
-
-span {
-  background-color: #f18973;
-}
-</style>
-
 <br>
 <br>
 <h1>Run File:</h1>
-<div>make && ./game</div>
+make && ./game
 </br>
 </br>
 
