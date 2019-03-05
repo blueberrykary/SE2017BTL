@@ -3,8 +3,6 @@
 
 
 <h1>Run File:</h1>
-<br>
-<br>
 make && ./game
 </br>
 </br>
