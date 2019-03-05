@@ -2,7 +2,7 @@
 <h3>Title: Beyond The Light:flashlight: </h3> 
 
 
-Run File:
+<h1>Run File:</h1>
 <br>
 <br>
 make && ./game
